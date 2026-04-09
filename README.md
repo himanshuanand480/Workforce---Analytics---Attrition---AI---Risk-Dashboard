@@ -53,7 +53,7 @@ Python used for analysis and visualization (Kaggle Notebook)
 
 ### 📸 Badge Preview
 
-![Kaggle Badge](kaggle_badge.png)
+![Kaggle Badge](kaggle.png)
 
 Kaggle Badge: https://www.kaggle.com/certification/badges/himanshuanand480/17
 ---
