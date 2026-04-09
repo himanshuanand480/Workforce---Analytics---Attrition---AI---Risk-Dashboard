@@ -49,11 +49,11 @@ Python used for analysis and visualization (Kaggle Notebook)
 * 🏅 Earned Kaggle Dataset Badge
 * 🔍 Used this dataset for end-to-end analysis
 
-🔗 Kaggle Dataset: 
+🔗 Kaggle Dataset: https://www.kaggle.com/datasets/himanshuanand480/workforce-analytics-attrition-and-skill-dataset
 
 ### 📸 Badge Preview
 
-![Kaggle Badge](kaggle.png)
+![Kaggle Badge](Kaggle.png)
 
 Kaggle Badge: https://www.kaggle.com/certification/badges/himanshuanand480/17
 ---
