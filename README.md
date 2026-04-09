@@ -62,7 +62,10 @@ Kaggle Badge: https://www.kaggle.com/certification/badges/himanshuanand480/17
 ![Dashboard](dashboard.jpeg)
 
 ---
-
+## EXCEL
+![Excel1](Excel1.jpeg)
+![Excel2](Excel2.jpeg)
+![Excel3](Excel3.jpeg)
 ## 🚀 Conclusion
 
 AI automation is significantly impacting workforce behavior, especially in mid-level roles.
