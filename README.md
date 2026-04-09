@@ -58,6 +58,7 @@ Custom dataset created and published on Kaggle.
 
 ### 🔹 Power BI Interactive Dashboard
 ![PowerBI](dashboard.jpeg)  
+🎥 **Screen Recording Demo**: [Watch on Google Drive](https://drive.google.com/your-link-here)  
 *Interactive dashboard with drill-downs and dynamic filters for attrition vs AI risk.*
 
 ---
@@ -66,6 +67,9 @@ Custom dataset created and published on Kaggle.
 ![Excel1](Excel1.jpeg)  
 ![Excel3](Excel3.jpeg)  
 *Excel-based dashboard showcasing pivot tables, charts, and attrition analysis.*
+
+---
+
 
 ---
 
