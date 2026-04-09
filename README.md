@@ -58,7 +58,7 @@ Custom dataset created and published on Kaggle.
 
 ### 🔹 Power BI Interactive Dashboard
 ![PowerBI](dashboard.jpeg)  
-🎥 **Screen Recording Demo**: [Watch on Google Drive](https://drive.google.com/your-link-here)  
+🎥 **Screen Recording Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1p0Mes3R5MlCB_DS6TPZO2SQZR7sNMNNV/view?usp=drivesdk)  
 *Interactive dashboard with drill-downs and dynamic filters for attrition vs AI risk.*
 
 ---
