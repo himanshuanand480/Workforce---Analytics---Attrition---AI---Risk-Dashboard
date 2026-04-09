@@ -58,7 +58,7 @@ Kaggle Badge: https://www.kaggle.com/certification/badges/himanshuanand480/17
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/dashboard.jpeg)
 
 ---
 
