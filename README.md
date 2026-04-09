@@ -54,11 +54,12 @@ Python used for analysis and visualization (Kaggle Notebook)
 ### 📸 Badge Preview
 
 ![Kaggle Badge](kaggle_badge.png)
+
 Kaggle Badge: https://www.kaggle.com/certification/badges/himanshuanand480/17
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.jpeg)
+![Dashboard](dashboard.jpeg)
 
 ---
 
