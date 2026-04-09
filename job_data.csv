@@ -1,0 +1,151 @@
+Job_Role,Required_Skill,Experience_Required,Salary_Offered,AI_Risk_Level
+Software Engineer,Power BI,0,42751,Low
+Electrical Engineer,Python,1,68534,Medium
+Data Analyst,Python,3,96151,Low
+Software Engineer,Python,1,75073,Low
+Electrical Engineer,Power BI,2,57898,Medium
+Mechanical Engineer,Python,4,82927,Medium
+Software Engineer,Python,2,63447,Low
+ML Engineer,SQL,1,44395,Low
+Electrical Engineer,SQL,0,63532,Medium
+Software Engineer,MATLAB,1,35633,Low
+Mechanical Engineer,MATLAB,2,41608,Medium
+ML Engineer,Python,0,60259,Low
+Mechanical Engineer,MATLAB,5,43719,Medium
+Data Analyst,CAD,5,48706,Low
+Software Engineer,Python,5,93506,Low
+Electrical Engineer,MATLAB,0,45793,Medium
+ML Engineer,Power BI,5,47042,Low
+Electrical Engineer,CAD,4,52699,Medium
+Software Engineer,CAD,1,40987,Low
+Data Analyst,CAD,5,69183,Low
+Software Engineer,CAD,2,33190,Low
+Data Analyst,MATLAB,0,44911,Low
+ML Engineer,Power BI,1,31031,Low
+Software Engineer,Python,4,78557,Low
+ML Engineer,Python,4,78834,Low
+Mechanical Engineer,SQL,3,66092,Medium
+Electrical Engineer,Python,1,87286,Medium
+Mechanical Engineer,CAD,1,52575,Medium
+Electrical Engineer,Python,1,81676,Medium
+Data Analyst,Power BI,2,56891,Low
+Mechanical Engineer,MATLAB,3,38101,Medium
+Electrical Engineer,SQL,1,72565,Medium
+Electrical Engineer,Python,2,65191,Medium
+Mechanical Engineer,Power BI,1,67041,Medium
+Data Analyst,Power BI,3,43283,Low
+Data Analyst,Python,3,70199,Low
+ML Engineer,Python,0,73042,Low
+Electrical Engineer,SQL,0,55523,Medium
+Mechanical Engineer,CAD,5,48384,Medium
+Electrical Engineer,MATLAB,0,36664,Medium
+ML Engineer,SQL,1,45689,Low
+Data Analyst,CAD,4,40061,Low
+Data Analyst,CAD,5,47953,Low
+Software Engineer,CAD,1,47404,Low
+ML Engineer,SQL,4,60562,Low
+Electrical Engineer,MATLAB,4,43124,Medium
+Data Analyst,MATLAB,3,59536,Low
+ML Engineer,SQL,3,51302,Low
+Software Engineer,Python,1,66501,Low
+ML Engineer,CAD,1,44087,Low
+Software Engineer,Python,5,94532,Low
+Electrical Engineer,CAD,0,66748,Medium
+Electrical Engineer,SQL,3,50110,Medium
+Data Analyst,MATLAB,4,56720,Low
+Electrical Engineer,MATLAB,5,46646,Medium
+Electrical Engineer,Python,4,86944,Medium
+Electrical Engineer,Power BI,0,55955,Medium
+Data Analyst,MATLAB,4,47469,Low
+Software Engineer,Python,5,99821,Low
+Data Analyst,SQL,4,66198,Low
+ML Engineer,CAD,1,35587,Low
+ML Engineer,Python,1,89276,Low
+Software Engineer,CAD,0,57444,Low
+ML Engineer,CAD,1,31181,Low
+Software Engineer,SQL,0,74806,Low
+Software Engineer,MATLAB,4,36547,Low
+Electrical Engineer,Python,2,87107,Medium
+Electrical Engineer,MATLAB,3,52741,Medium
+ML Engineer,Power BI,0,40424,Low
+Mechanical Engineer,Python,1,85030,Medium
+Data Analyst,MATLAB,3,32985,Low
+ML Engineer,MATLAB,5,52666,Low
+ML Engineer,Python,3,84115,Low
+Data Analyst,CAD,4,41610,Low
+Software Engineer,MATLAB,0,67783,Low
+ML Engineer,MATLAB,0,53684,Low
+Data Analyst,CAD,5,33436,Low
+Software Engineer,Power BI,1,51705,Low
+ML Engineer,Python,1,69640,Low
+ML Engineer,Power BI,1,39166,Low
+Software Engineer,SQL,2,63945,Low
+Software Engineer,Python,5,83753,Low
+Data Analyst,Power BI,5,40227,Low
+Software Engineer,SQL,3,42447,Low
+Electrical Engineer,MATLAB,4,44008,Medium
+Mechanical Engineer,Python,3,66344,Medium
+Mechanical Engineer,MATLAB,2,32949,Medium
+Electrical Engineer,Power BI,2,45153,Medium
+ML Engineer,CAD,4,68359,Low
+ML Engineer,Power BI,5,47633,Low
+Electrical Engineer,CAD,1,47322,Medium
+Mechanical Engineer,SQL,2,69159,Medium
+Data Analyst,CAD,5,58126,Low
+Software Engineer,Power BI,1,52008,Low
+Software Engineer,SQL,4,77889,Low
+Electrical Engineer,MATLAB,5,64492,Medium
+Electrical Engineer,SQL,5,73703,Medium
+Mechanical Engineer,Python,0,72844,Medium
+Software Engineer,Python,5,62132,Low
+Data Analyst,SQL,3,55407,Low
+ML Engineer,Power BI,0,62569,Low
+Mechanical Engineer,MATLAB,1,43145,Medium
+Mechanical Engineer,CAD,5,44551,Medium
+Mechanical Engineer,Python,1,82022,Medium
+Mechanical Engineer,CAD,1,66503,Medium
+Mechanical Engineer,MATLAB,4,39927,Medium
+Data Analyst,CAD,3,63442,Low
+Software Engineer,SQL,0,74407,Low
+Electrical Engineer,MATLAB,1,52112,Medium
+Software Engineer,MATLAB,2,50076,Low
+Electrical Engineer,Python,1,73989,Medium
+Mechanical Engineer,MATLAB,0,42660,Medium
+Mechanical Engineer,MATLAB,3,57384,Medium
+Software Engineer,CAD,0,44107,Low
+Electrical Engineer,Python,4,76347,Medium
+Mechanical Engineer,MATLAB,5,47870,Medium
+Data Analyst,Power BI,1,65651,Low
+Software Engineer,Power BI,4,60330,Low
+Software Engineer,CAD,5,69561,Low
+Electrical Engineer,SQL,0,72694,Medium
+Mechanical Engineer,MATLAB,1,32848,Medium
+Electrical Engineer,Power BI,2,58933,Medium
+Software Engineer,Power BI,5,58668,Low
+Software Engineer,Power BI,0,34362,Low
+Data Analyst,SQL,5,63231,Low
+Software Engineer,Python,0,97528,Low
+Electrical Engineer,MATLAB,5,46910,Medium
+ML Engineer,CAD,3,49079,Low
+Data Analyst,SQL,3,46127,Low
+Data Analyst,SQL,3,62682,Low
+Electrical Engineer,CAD,5,64508,Medium
+Software Engineer,CAD,0,46279,Low
+Mechanical Engineer,Power BI,3,59351,Medium
+Software Engineer,MATLAB,2,56644,Low
+ML Engineer,Python,1,84386,Low
+Software Engineer,Power BI,1,32045,Low
+Mechanical Engineer,Python,5,87685,Medium
+Data Analyst,Power BI,2,52815,Low
+Mechanical Engineer,MATLAB,1,68434,Medium
+Mechanical Engineer,MATLAB,5,35440,Medium
+ML Engineer,SQL,2,42405,Low
+Electrical Engineer,CAD,3,35221,Medium
+Software Engineer,Python,3,78132,Low
+ML Engineer,MATLAB,2,30648,Low
+Data Analyst,Power BI,5,42107,Low
+ML Engineer,Power BI,0,63483,Low
+Software Engineer,CAD,5,63555,Low
+Data Analyst,Python,3,88672,Low
+Mechanical Engineer,MATLAB,5,66910,Medium
+Software Engineer,CAD,0,35535,Low

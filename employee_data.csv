@@ -1,0 +1,201 @@
+Employee_ID,Age,Domain,Salary ,Working_Hours,Work_Life_Balance,Job_Satisfaction,Experience,Skill,Attrition
+101,29,Software,38188,9,3,4,6,Python,Yes
+102,36,Data,30309,10,2,2,8,Power BI,Yes
+103,45,Software,78608,7,5,5,3,Python,No
+104,22,Data,71743,6,5,4,8,Power BI,No
+105,36,Data,46576,7,5,2,0,SQL,Yes
+106,32,Electrical,45952,10,2,5,1,MATLAB,Yes
+107,28,Data,53508,6,5,4,9,Power BI,No
+108,33,Mechanical,47415,8,4,5,8,CAD,No
+109,43,Software,81446,6,5,2,7,Java,Yes
+110,32,AI,35493,6,5,4,6,Machine Learning,Yes
+111,39,Electrical,52830,9,3,3,9,MATLAB,No
+112,33,AI,33504,6,5,5,6,Python,Yes
+113,40,Mechanical,74044,7,5,2,7,CAD,Yes
+114,41,Data,53038,9,3,5,0,SQL,No
+115,30,Data,76638,7,5,5,8,Power BI,No
+116,45,AI,36429,7,5,3,0,Machine Learning,Yes
+117,24,Data,26489,8,4,4,8,Power BI,Yes
+118,39,Electrical,52893,8,4,3,8,MATLAB,No
+119,40,Data,70869,7,5,2,0,Power BI,Yes
+120,27,AI,29156,9,3,5,10,Python,Yes
+121,26,AI,44126,9,3,1,3,Python,Yes
+122,23,Software,38210,8,4,1,8,Java,Yes
+123,35,Data,86147,9,3,5,10,SQL,No
+124,34,Software,36245,8,4,1,4,Java,Yes
+125,44,Data,33458,8,4,4,9,Power BI,Yes
+126,43,Electrical,53194,8,4,5,7,MATLAB,No
+127,34,AI,45327,9,3,1,4,Python,Yes
+128,24,Data,51416,10,2,3,5,SQL,Yes
+129,34,Software,85724,9,3,2,9,Python,Yes
+130,26,Electrical,53915,10,2,4,5,MATLAB,Yes
+131,31,Electrical,59776,9,3,5,7,MATLAB,No
+132,29,Mechanical,59444,7,5,4,7,CAD,No
+133,22,Mechanical,27815,9,3,2,1,CAD,Yes
+134,26,AI,43957,9,3,5,10,Machine Learning,No
+135,26,Electrical,38987,9,3,4,8,MATLAB,Yes
+136,22,Electrical,86995,6,5,2,3,MATLAB,Yes
+137,38,Mechanical,38614,6,5,5,8,CAD,Yes
+138,32,Data,79759,10,2,1,2,Power BI,Yes
+139,35,Data,76118,8,4,4,8,SQL,No
+140,45,AI,84171,6,5,1,6,Machine Learning,Yes
+141,40,Data,72991,10,2,3,5,Power BI,Yes
+142,31,Software,51665,7,5,5,2,Java,No
+143,24,Electrical,77730,7,5,1,1,MATLAB,Yes
+144,40,Data,75443,10,2,3,8,SQL,Yes
+145,41,Mechanical,71000,8,4,2,2,CAD,Yes
+146,34,Data,34803,9,3,1,5,Power BI,Yes
+147,38,AI,85883,10,2,5,3,Machine Learning,Yes
+148,27,Electrical,52568,6,5,3,2,MATLAB,No
+149,44,Data,54205,8,4,3,0,Power BI,No
+150,37,Software,88803,9,3,3,3,Java,No
+151,32,Mechanical,39840,9,3,2,2,CAD,Yes
+152,38,Mechanical,50622,7,5,3,1,CAD,No
+153,27,Mechanical,58380,7,5,2,8,CAD,Yes
+154,26,Mechanical,34885,8,4,1,10,CAD,Yes
+155,37,Data,46602,7,5,4,0,Power BI,No
+156,30,Data,38258,10,2,1,8,SQL,Yes
+157,29,Electrical,65229,8,4,2,5,MATLAB,Yes
+158,35,Software,75422,8,4,1,5,Java,Yes
+159,44,Data,46736,9,3,2,8,SQL,Yes
+160,30,Data,54720,10,2,5,0,Power BI,Yes
+161,36,Software,74964,8,4,3,1,Python,No
+162,45,Data,83560,10,2,1,2,SQL,Yes
+163,37,Electrical,46373,10,2,4,4,MATLAB,Yes
+164,34,Data,50738,9,3,5,1,Power BI,No
+165,29,Mechanical,30634,9,3,5,9,CAD,Yes
+166,41,Mechanical,83732,6,5,4,6,CAD,No
+167,37,Data,79367,7,5,2,4,Power BI,Yes
+168,32,Mechanical,73218,6,5,5,2,CAD,No
+169,31,Data,36153,9,3,4,7,SQL,Yes
+170,23,Mechanical,88247,10,2,3,0,CAD,Yes
+171,44,Electrical,29588,10,2,2,7,MATLAB,Yes
+172,38,Electrical,35940,8,4,1,7,MATLAB,Yes
+173,38,Mechanical,76264,6,5,2,1,CAD,Yes
+174,37,Software,57657,6,5,2,6,Python,Yes
+175,39,AI,50522,10,2,5,9,Machine Learning,Yes
+176,38,Software,25530,10,2,1,2,Python,Yes
+177,45,AI,35066,9,3,1,7,Machine Learning,Yes
+178,45,Electrical,47596,8,4,2,10,MATLAB,Yes
+179,32,Software,26418,6,5,4,5,Java,Yes
+180,28,Mechanical,61491,8,4,4,2,CAD,No
+181,41,Software,44332,8,4,3,7,Java,No
+182,32,Software,76164,7,5,1,8,Java,Yes
+183,45,Data,29663,7,5,3,6,Power BI,Yes
+184,37,AI,56215,6,5,1,1,Python,Yes
+185,41,Mechanical,74507,9,3,2,10,CAD,Yes
+186,33,AI,82805,6,5,3,2,Machine Learning,No
+187,38,AI,56130,7,5,1,3,Python,Yes
+188,31,AI,37148,10,2,4,8,Machine Learning,Yes
+189,22,Software,66270,8,4,1,10,Python,Yes
+190,39,AI,52522,8,4,1,9,Machine Learning,Yes
+191,27,Mechanical,55983,8,4,4,7,CAD,No
+192,32,Data,40589,9,3,2,4,Power BI,Yes
+193,41,AI,56060,8,4,3,9,Machine Learning,No
+194,27,Mechanical,60919,8,4,1,9,CAD,Yes
+195,39,Electrical,25039,7,5,5,7,MATLAB,Yes
+196,22,Software,41806,6,5,4,10,Java,No
+197,29,AI,42588,9,3,5,9,Python,No
+198,27,Software,48106,7,5,4,5,Java,No
+199,45,Mechanical,54077,6,5,1,7,CAD,Yes
+200,28,Electrical,48467,7,5,2,6,MATLAB,Yes
+201,44,AI,72460,6,5,5,9,Machine Learning,No
+202,29,Software,27505,7,5,2,1,Java,Yes
+203,40,Electrical,33080,7,5,5,9,MATLAB,Yes
+204,27,AI,25870,9,3,1,3,Python,Yes
+205,32,Mechanical,80343,9,3,1,9,CAD,Yes
+206,26,Electrical,86208,6,5,3,7,MATLAB,No
+207,44,AI,55106,8,4,4,7,Machine Learning,No
+208,43,Data,34228,10,2,1,2,Power BI,Yes
+209,27,Data,68044,7,5,1,6,Power BI,Yes
+210,40,Mechanical,52790,8,4,5,3,CAD,No
+211,45,AI,53619,7,5,3,8,Python,No
+212,25,Data,89450,8,4,2,5,Power BI,Yes
+213,32,Mechanical,63481,6,5,4,2,CAD,No
+214,36,Software,78238,9,3,2,7,Java,Yes
+215,31,AI,30938,10,2,4,6,Machine Learning,Yes
+216,45,Data,85628,7,5,2,1,Power BI,Yes
+217,23,AI,28110,10,2,4,7,Machine Learning,Yes
+218,37,Data,63368,10,2,5,1,Power BI,Yes
+219,34,Electrical,73365,9,3,5,3,MATLAB,No
+220,42,Electrical,51669,9,3,2,4,MATLAB,Yes
+221,24,Software,45739,7,5,2,8,Python,Yes
+222,45,Mechanical,51372,6,5,4,5,CAD,No
+223,38,Data,50078,9,3,4,9,SQL,No
+224,29,Software,81982,8,4,1,3,Python,Yes
+225,35,Mechanical,42162,6,5,5,1,CAD,No
+226,32,Data,38203,10,2,5,6,SQL,Yes
+227,31,Software,57830,10,2,3,5,Python,Yes
+228,30,Electrical,54937,8,4,1,6,MATLAB,Yes
+229,31,Software,35268,9,3,5,2,Python,Yes
+230,40,Electrical,66118,6,5,1,8,MATLAB,Yes
+231,43,Electrical,68753,8,4,1,7,MATLAB,Yes
+232,26,Data,46505,9,3,5,5,SQL,No
+233,28,Data,41389,9,3,5,8,SQL,No
+234,45,Data,70483,7,5,4,2,Power BI,No
+235,40,Software,52965,8,4,5,2,Python,No
+236,42,AI,73062,6,5,5,2,Machine Learning,No
+237,39,Software,49400,8,4,2,2,Python,Yes
+238,39,AI,36850,8,4,2,10,Machine Learning,Yes
+239,35,AI,38895,7,5,2,5,Machine Learning,Yes
+240,23,Electrical,77892,10,2,5,0,MATLAB,Yes
+241,27,AI,33841,9,3,5,4,Python,Yes
+242,29,Electrical,69092,6,5,1,2,MATLAB,Yes
+243,36,Mechanical,59828,6,5,3,3,CAD,No
+244,22,Mechanical,79841,7,5,5,2,CAD,No
+245,44,Software,35657,8,4,3,0,Python,Yes
+246,33,AI,81404,6,5,2,9,Python,Yes
+247,39,Mechanical,33161,7,5,2,0,CAD,Yes
+248,42,Mechanical,27547,6,5,5,10,CAD,Yes
+249,41,Mechanical,87437,7,5,1,4,CAD,Yes
+250,33,Software,56616,8,4,2,10,Java,Yes
+251,42,Software,88070,6,5,5,6,Python,No
+252,35,Data,88841,10,2,3,10,Power BI,Yes
+253,26,Electrical,63986,7,5,2,9,MATLAB,Yes
+254,23,Mechanical,40821,9,3,1,10,CAD,Yes
+255,29,Electrical,41807,8,4,2,0,MATLAB,Yes
+256,35,Mechanical,58532,10,2,1,8,CAD,Yes
+257,31,Electrical,55594,6,5,5,2,MATLAB,No
+258,26,Electrical,63976,10,2,2,10,MATLAB,Yes
+259,26,AI,68121,10,2,1,6,Machine Learning,Yes
+260,32,Mechanical,43916,6,5,1,10,CAD,Yes
+261,35,Software,54121,10,2,3,9,Python,Yes
+262,25,AI,49383,9,3,3,7,Python,No
+263,22,Software,45772,10,2,1,1,Python,Yes
+264,42,Data,88247,10,2,3,4,Power BI,Yes
+265,30,Data,57847,8,4,4,8,Power BI,No
+266,40,Data,84706,7,5,5,9,SQL,No
+267,25,Mechanical,28960,9,3,2,9,CAD,Yes
+268,30,Mechanical,57449,10,2,5,3,CAD,Yes
+269,43,Mechanical,32921,7,5,3,4,CAD,Yes
+270,36,AI,81772,9,3,4,9,Machine Learning,No
+271,45,Mechanical,87836,9,3,5,10,CAD,No
+272,43,AI,66554,10,2,2,7,Machine Learning,Yes
+273,28,Mechanical,79582,6,5,3,0,CAD,No
+274,44,Data,73689,7,5,5,4,Power BI,No
+275,39,Electrical,89860,10,2,2,5,MATLAB,Yes
+276,23,AI,87108,7,5,3,2,Python,No
+277,23,Mechanical,89427,9,3,4,8,CAD,No
+278,36,Electrical,76804,8,4,3,1,MATLAB,No
+279,31,Data,26958,9,3,1,6,SQL,Yes
+280,30,AI,36476,10,2,4,6,Python,Yes
+281,44,Electrical,45357,7,5,2,2,MATLAB,Yes
+282,28,Electrical,35787,6,5,3,5,MATLAB,Yes
+283,22,Data,69469,8,4,5,8,SQL,No
+284,43,Software,62148,8,4,1,7,Java,Yes
+285,28,Data,81256,9,3,1,6,Power BI,Yes
+286,36,Mechanical,37699,7,5,4,0,CAD,Yes
+287,43,Data,62152,8,4,1,1,Power BI,Yes
+288,40,Mechanical,81393,9,3,5,2,CAD,No
+289,35,Mechanical,50900,10,2,4,1,CAD,Yes
+290,45,Electrical,29085,7,5,4,10,MATLAB,Yes
+291,25,Software,31110,8,4,2,2,Python,Yes
+292,32,Data,69841,10,2,5,4,Power BI,Yes
+293,23,Data,31957,6,5,5,6,SQL,Yes
+294,37,Electrical,26039,6,5,1,0,MATLAB,Yes
+295,45,Electrical,60520,9,3,4,4,MATLAB,No
+296,40,AI,38226,6,5,1,1,Machine Learning,Yes
+297,22,Data,86460,7,5,5,7,Power BI,No
+298,29,Data,31257,8,4,2,4,SQL,Yes
+299,41,AI,64638,7,5,1,10,Machine Learning,Yes
+300,23,Data,57459,10,2,5,10,Power BI,Yes
